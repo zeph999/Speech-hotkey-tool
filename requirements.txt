@@ -1,0 +1,13 @@
+keyboard>=0.13.5
+numpy>=1.26.0
+opencc-python-reimplemented>=0.1.7
+Pillow>=10.0.0
+pyautogui>=0.9.54
+pydub>=0.25.1
+audioop-lts>=0.2.1; python_version >= "3.13"
+pyinstaller>=6.0.0
+pyperclip>=1.8.2
+pystray>=0.19.5
+sherpa-onnx>=1.13.2
+sounddevice>=0.4.6
+soundfile>=0.12.1
