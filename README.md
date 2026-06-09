@@ -1,7 +1,7 @@
 # Speech Hotkey Tool
 
 <p align="center">
-  <img src="assets/sht-image.png" alt="Speech Hotkey Tool banner" width="900">
+  <img src="assets/hero-blue.png" alt="Speech Hotkey Tool banner" width="900">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ### 演示图
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Speech Hotkey Tool demo" width="900">
+  <img src="assets/demo-blue.gif" alt="Speech Hotkey Tool demo" width="900">
 </p>
 
 ### 核心特性
@@ -128,7 +128,7 @@ A: 不会。日志文件会自动轮转，单个日志最大约 1 MB，最多保
 ### Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Speech Hotkey Tool demo" width="900">
+  <img src="assets/demo-blue.gif" alt="Speech Hotkey Tool demo" width="900">
 </p>
 
 ### Features
